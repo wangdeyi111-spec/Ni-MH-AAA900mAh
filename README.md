@@ -21,7 +21,7 @@ the battery compartment to avoid short circuits.
 4.This battery complies with EU Battery Regulation (EU) 2023/1542, containing no mercury (Hg), cadmium (Cd), or lead (Pb),
 and should be recycled in accordance with local regulations after disposal.
 
-WARNIGS:
+WARNINGS:
 
 Keep batteries away from small children.
 If a battery is swallowed or placed inside any part of the body, seek immediate medical attention.
